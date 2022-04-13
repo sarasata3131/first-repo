@@ -7,3 +7,4 @@
 -who am i?
 -what i do?
 -nice to meet you
+-This project is to learn about git.
